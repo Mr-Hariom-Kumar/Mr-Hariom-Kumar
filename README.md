@@ -1,4 +1,5 @@
 # 💫 About Me:
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Hariom Kumar</h1>
 🙇‍♂️ I’m a full stack Developer specialized in MERN+MYSQL techStack.<br>🏢 Open to work as remote or internship in My specialized domain.<br>🎓 Ex- intern at Bluestock Fintech looking forward for any major breakthrough.<br>⚡ i love spending my time in coding .<br>⭐As 20s i don’t believe in work life balance but do care about college hours.🥹
 
 
@@ -19,10 +20,11 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Hariom-Kumar&theme=nightowl&radius=10" alt="Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Hariom-Kumar&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="Mr-Hariom-Kumar's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=Mr-Hariom-Kumar&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Mr-Hariom-Kumar's GitHub Streak" width="49%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+</picture>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
