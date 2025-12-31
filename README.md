@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙇‍♂️ I'm a full stack Developer specialized in MERN+MYSQL techStack.<br>🏢 Open to work as  remote or internship in My specialized domain.<br>🎓  Ex- intern at Bluestock  Fintech  looking forward for any major breakthrough.<br> ⚡ i love spending ma'h time in coding . <br> ⭐As 20s i don't believe in work life balance but  do care about  college hours.🥹<br>
+🙇‍♂️ I'm a full stack Developer specialized in MERN+MYSQL techStack.<br>🏢 Open to work as  remote or internship in My specialized domain.<br>🎓  Ex- intern at Bluestock  Fintech  looking forward for any major breakthrough.<br> ⚡ i love spending my time in coding . <br> ⭐As 20s i don't believe in work life balance but  do care about  college hours.🥹<br>
 
 
 ## 🌐 Socials:
