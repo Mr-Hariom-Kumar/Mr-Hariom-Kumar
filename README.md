@@ -15,4 +15,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Mr-Hariom-Kumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Hariom-Kumar&theme=nightowl&radius=10" alt="Mr-Hariom-Kumar's Activity Graph" />
+</p>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
