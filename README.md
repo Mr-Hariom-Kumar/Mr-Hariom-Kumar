@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Hariom Kumar</h1>
 🙇‍♂️ I’m a  C++ programmer and full stack Developer specialized in MERN+MYSQL techStack.<br>🎓 Ex- intern at Bluestock Fintech looking forward for any major breakthrough.<br>⚡ i love spending my time in coding .<br>
-(<a href="https://harry-dev-port-folio.vercel.app/resume">Find my resume here</a>)
+(<a href="https://drive.google.com/file/d/1ihH_Qfwhgi8VjHaPmmSEip1XLbOFaAq4/view?usp=drive_link">Find my resume here</a>)
 
 
 ## 🌐 Socials:
